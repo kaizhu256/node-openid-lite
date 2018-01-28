@@ -2,13 +2,13 @@
 <rect height="750" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
 <tspan x="10" y="26"></tspan>
-<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-01-28T03:17:49.883Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
+<tspan x="10" y="42">[MODE_BUILD=buildApidoc] - 2018-01-28T03:23:56.335Z - npm-testing /home/travis/build/kaizhu256/n\</tspan>
 <tspan x="10" y="58">ode-openid-lite</tspan>
 <tspan x="10" y="74"></tspan>
 <tspan x="10" y="90"></tspan>
 <tspan x="10" y="106">buildApidoc - merged test-report from file /home/travis/build/kaizhu256/node-openid-lite/tmp/bui\</tspan>
 <tspan x="10" y="122">ld/test-report.json</tspan>
-<tspan x="10" y="138">&gt; server listening on http-port 57012</tspan>
+<tspan x="10" y="138">&gt; server listening on http-port 62196</tspan>
 <tspan x="10" y="154">apidocCreate - readExample /home/travis/build/kaizhu256/node-openid-lite/package.json</tspan>
 <tspan x="10" y="170">apidocCreate - readExample /home/travis/build/kaizhu256/node-openid-lite/.gitignore</tspan>
 <tspan x="10" y="186">apidocCreate - readExample /home/travis/build/kaizhu256/node-openid-lite/lib.openid.js</tspan>
@@ -27,15 +27,15 @@
 <tspan x="10" y="394">ld/test-report.json</tspan>
 <tspan x="10" y="410"></tspan>
 <tspan x="10" y="426">-------------------------------------------------------</tspan>
-<tspan x="10" y="442">| test-report - buildApidoc - node - linux v6.12.3 - 2018-01-28T03:17:50.181Z</tspan>
-<tspan x="10" y="458">|     107 ms            0 failed        1 passed      |</tspan>
+<tspan x="10" y="442">| test-report - buildApidoc - node - linux v6.12.3 - 2018-01-28T03:23:56.595Z</tspan>
+<tspan x="10" y="458">|     132 ms            0 failed        1 passed      |</tspan>
 <tspan x="10" y="474">-------------------------------------------------------</tspan>
 <tspan x="10" y="490">| test-report - npmTest - browser - / - Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTM\</tspan>
-<tspan x="10" y="506">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T03:17:31.623Z</tspan>
-<tspan x="10" y="522">|      39 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="506">L, like Gecko) Chrome/56.0.2924.87 Electron/1.6.15 Safari/537.36 - 2018-01-28T03:23:38.529Z</tspan>
+<tspan x="10" y="522">|      25 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="538">-------------------------------------------------------</tspan>
-<tspan x="10" y="554">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T03:17:29.843Z</tspan>
-<tspan x="10" y="570">|   16262 ms            0 failed        8 passed      |</tspan>
+<tspan x="10" y="554">| test-report - npmTest - node - linux v6.12.3 - 2018-01-28T03:23:36.441Z</tspan>
+<tspan x="10" y="570">|   16595 ms            0 failed        8 passed      |</tspan>
 <tspan x="10" y="586">-------------------------------------------------------</tspan>
 <tspan x="10" y="602"></tspan>
 <tspan x="10" y="618">created test-report file /home/travis/build/kaizhu256/node-openid-lite/tmp/build/test-report.htm\</tspan>
@@ -45,6 +45,6 @@
 <tspan x="10" y="682">buildApidoc - 0 failed tests</tspan>
 <tspan x="10" y="698"></tspan>
 <tspan x="10" y="714"></tspan>
-<tspan x="10" y="730">[MODE_BUILD=buildApidoc] - 2018-01-28T03:17:52.886Z - EXIT_CODE - 0</tspan>
+<tspan x="10" y="730">[MODE_BUILD=buildApidoc] - 2018-01-28T03:23:59.172Z - EXIT_CODE - 0</tspan>
 </text>
 </svg>
