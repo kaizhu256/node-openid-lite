@@ -1,0 +1,36 @@
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "openid app",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/kaizhu256/node-openid-lite",
+    "keywords": [],
+    "license": "MIT",
+    "main": "lib.openid.js",
+    "name": "openid-lite",
+    "nameLib": "openid",
+    "nameOriginal": "openid-lite",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kaizhu256/node-openid-lite.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm uninstall utility2 2>/dev/null; npm install kaizhu256/node-utility2#alpha && utility2 shDeployHeroku",
+        "nameAliasPublish": "",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "PORT=$(utility2 shServerPortRandom) utility2 test test.js"
+    },
+    "version": "2018.1.16"
+}
