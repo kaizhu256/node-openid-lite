@@ -619,13 +619,14 @@ utility2-comment -->\n\
 # this shell script will run the build for this package
 
 shBuildCiAfter() {(set -e
+    # shDeployCustom
     shDeployGithub
     # shDeployHeroku
     shReadmeTest example.sh
 )}
 
 shBuildCiBefore() {(set -e
-    shNpmTestPublished
+    # shNpmTestPublished
     shReadmeTest example.js
 )}
 
